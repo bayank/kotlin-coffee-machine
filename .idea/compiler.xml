@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task-build-classes-java.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task-build-classes-kotlin.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task-build-reports-tests.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task-build-test-results.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task-build-tmp.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Enum-Currencies.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Enum-Days_of_the_week.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Enum-Methods_and_parameters_of_Enum.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Enum-Properties_of_Enum.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Enum-The_rainbow_order.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Enum-Theory.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Introduction_to_MutableList-Initializing_a_list.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_integers.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_longs.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Introduction_to_MutableList-Printing_the_last_element.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Introduction_to_MutableList-Right_ways_to_create_mutable_lists.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Introduction_to_MutableList-The_last_element_of_a_list.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Introduction_to_MutableList-Theory.main" target="11" />
+      <module name="Coffee_Machine_(Kotlin).util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
